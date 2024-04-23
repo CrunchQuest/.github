@@ -1,4 +1,4 @@
-# ![Title](https://github.com/CrunchQuest/.github/blob/main/crunchquest_banner.png "Title")
+# ![Title](https://github.com/CrunchQuest/.github/blob/main/profile/cq_banner.png "Title")
 CrunchQuest is a user-friendly mobile app connecting individuals in need with willing helpers. Users create and accept quests for various tasks, from academic assistance to daily chores. The app's AI-driven recommendation system suggests personalized quests based on user behavior. A reputation system ensures trust and reliability, fostering a collaborative community for mutual support. Whether it's finding a coding tutor, moving assistance, or help with daily tasks, CrunchQuest simplifies connections for shared success.
 
 ## Mission
